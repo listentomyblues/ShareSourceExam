@@ -1,10 +1,3 @@
-Zapper Assessment
-You should spend no longer than an hour on the assessment.
-
-The results should be committed to github and a link provided as the result.
-Question 1 - Database Design
-At Zapper we facilitate transactions between our customers and merchants.
-
 Write SQL to define data structures which could help us track transactions.
 Question 2 - User Settings
 A user profile has 8 boolean settings which determines their functionality.
